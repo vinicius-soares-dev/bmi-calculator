@@ -16,7 +16,7 @@ _It is a simple calculation that allows you to measure whether or not someone is
 
 ## View the project:
 
-bmi-calculator-gray.vercel.app
+[bmi-calculator-gray.vercel.app](https://bmi-calculator-gray.vercel.app/)
 
 ### How to use the app?
 <ul>
